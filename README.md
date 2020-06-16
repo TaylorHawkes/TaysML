@@ -5,7 +5,9 @@ Usage Docs (still in progress)
 
 
 ```
+<?php
 require_once("vendor/autoload.php");
 $ts = new \TaysML\Network();
 $ts->init();
+?>
 ```
