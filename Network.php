@@ -163,7 +163,7 @@ class Network
     //end grepper
     
 
-    //grepper php this is a sigmoid function 
+    //grepper test php this is a sigmoid function 
     public function sigmoid($t){
         return 1 / (1 + exp(-$t));
     }
