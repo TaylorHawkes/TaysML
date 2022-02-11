@@ -156,10 +156,12 @@ class Network
     }
 
 
-
+    //grepper php inverse sigmoid function
     public function inverse_sigmoid($v){
          return $v * (1 - $v);
     }
+    //end grepper
+    
     public function sigmoid($t){
         return 1 / (1 + exp(-$t));
     }
