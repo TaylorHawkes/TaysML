@@ -11,3 +11,6 @@ $ts = new \TaysML\Network();
 $ts->init();
 ?>
 ```
+
+Dependencies:
+https://github.com/phpsci/phpsci-carray
